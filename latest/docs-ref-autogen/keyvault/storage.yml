@@ -223,7 +223,7 @@ items:
       repo: https://github.com/Azure/azure-cli.git
 - uid: az_keyvault_storage_remove
   name: az keyvault storage remove
-  summary: Deletes a storage account.
+  summary: Removes a Key Vault managed Azure Storage Account and all associated SAS definitions.
   description: This operation requires the storage/delete permission.
   langs:
   - azurecli
